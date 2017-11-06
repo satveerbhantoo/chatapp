@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/satveerbhantoo/chatapp/issues"
   },
-  "homepage": "https://github.com/satveerbhantoo/chatapp#readme"
+  "homepage": "https://github.com/satveerbhantoo/chatapp#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0"
+  }
 }
